@@ -1,0 +1,1 @@
+./darknet detector train mm/cfg/mm.data mm/cfg/mm.cfg mm/data/darknet53.conv.74

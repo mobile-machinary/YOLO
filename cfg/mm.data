@@ -1,0 +1,6 @@
+classes= 6
+train  =/home/w/桌面/yolo/tensorflow-yolov3-master/data/mm/con_train.txt
+valid  = /home/w/桌面/yolo/tensorflow-yolov3-master/data/mm/con_val.txt
+names = /home/w/桌面/yolo/tensorflow-yolov3-master/data/mm/cfg/mm.names
+backup = /home/w/桌面/yolo/tensorflow-yolov3-master/data/mm/backup
+
